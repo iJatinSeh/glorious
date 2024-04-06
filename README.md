@@ -1,5 +1,5 @@
-# 😏 Glorious 
-- This repository contains "proof of work" (things that just work) I find inspiring, fun or amazing. 
+# 😏 Blessed 
+- This repository contains amazing "proof of work" (things that just work). 
 - For a challenge try to decode the the last sentence;  tell me the answer (no it's not just 523) and explaination. First person to solve it will get cookie.
 - To sort and easily find your interested topic it is top level divided into: Idea -> Component -> Field -> Subject -> Topic (-> Sub-topic). 
 - 
